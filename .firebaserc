@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mabv-firechat": {
+      "hosting": {
+        "fireChatApp": [
+          "mabv-firechat"
+        ]
+      }
+    }
+  }
+}
